@@ -1,5 +1,5 @@
 input {
-    background-image: url(css/"INPUT.png");
+    background-image: url("INPUT.png");
     position: absolute;
     left: 94px;
     top: 124px;
