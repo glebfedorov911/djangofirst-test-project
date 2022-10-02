@@ -1,0 +1,37 @@
+body {
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #3F230F;
+}
+
+p {
+position: absolute;
+width: 820px;
+height: 176px;
+left: 430px;
+top: 153px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 100;
+font-size: 150px;
+line-height: 182px;
+text-align: center;
+
+color: #ffffffe3;
+}
+
+header {
+box-sizing: border-box;
+
+position: absolute;
+width: 1427px;
+height: 110px;
+left: 258px;
+top: 681px;
+
+background: #451F0A;
+border: 10px solid #291408;
+}
